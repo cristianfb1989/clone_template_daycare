@@ -31,7 +31,7 @@ Widget buildHeaderData(double height, double width) {
               Text(", Buen dia!",
                   style: TextStyle(color: Colors.white70, fontSize: 16))
             ]),
-            Text("Hoy $date}",
+            Text("Hoy $date",
                 style: TextStyle(color: Colors.white70, fontSize: 13))
           ]));
 }
